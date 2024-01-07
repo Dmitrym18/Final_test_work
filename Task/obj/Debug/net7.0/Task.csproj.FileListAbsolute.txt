@@ -1,0 +1,14 @@
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\bin\Debug\net7.0\Task.exe
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\bin\Debug\net7.0\Task.deps.json
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\bin\Debug\net7.0\Task.dll
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\bin\Debug\net7.0\Task.pdb
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\Task.dll
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\refint\Task.dll
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\Task.pdb
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+E:\данные с копоративного ноутбука\IT\Final homework 1\Task\obj\Debug\net7.0\ref\Task.dll
